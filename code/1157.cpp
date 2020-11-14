@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
 int main() {
     int a[26] = {0};
     int max = -1, index = -1;
