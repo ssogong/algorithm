@@ -1,2 +1,2 @@
-# baekjoon
-백준 뿌시기
+# algorithm
+ 뿌시기
